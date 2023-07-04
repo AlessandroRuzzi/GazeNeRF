@@ -1,0 +1,22 @@
+{
+  "train": [
+    
+  ],
+  "val": [
+    "subject0000.h5",
+    "subject0001.h5",
+    "subject0002.h5",
+    "subject0003.h5",
+    "subject0004.h5",
+    "subject0005.h5",
+    "subject0006.h5",
+    "subject0007.h5",
+    "subject0008.h5",
+    "subject0009.h5",
+    "subject0010.h5",
+    "subject0011.h5",
+    "subject0012.h5",
+    "subject0013.h5",
+    "subject0014.h5"
+  ]
+}

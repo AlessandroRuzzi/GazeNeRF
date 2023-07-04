@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<image_Width>512</image_Width>
+<image_Height>512</image_Height>
+<Camera_Matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    1.3220644426377807e+04 0. 256.0 0.
+    1.3217098340571571e+04 256.0 0. 0. 1.</data></Camera_Matrix>
+<Distortion_Coefficients type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>5</cols>
+  <dt>d</dt>
+  <data>
+    2.0848498112451347e-01 5.4100031574707650e+00
+    -4.1357886159568832e-03 -2.3270463787165046e-04
+    -7.5876626553372375e+01</data></Distortion_Coefficients>
+<cam_translation type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    -4.1470095212370296e+02 1.8529135395040885e-01
+    2.1840313014420755e+02</data></cam_translation>
+<cam_rotation type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    9.0345491883511742e-01 -1.5574653729707198e-02
+    4.2840009313004496e-01 1.1507558592957517e-02 9.9986079112974124e-01
+    1.2081988935503852e-02 -4.2852862883109816e-01
+    -5.9856931601699696e-03 9.0350837613689627e-01</data></cam_rotation>
+</opencv_storage>

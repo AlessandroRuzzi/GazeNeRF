@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<pix2mm type_id="opencv-matrix">
+  <rows>2</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    0.9149659863945578 0.0 -360.0 0.0 0.8170212765957447 -316.0</data></pix2mm>
+<screen_translation type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    60.6436 109.7175 183.0194</data></screen_translation>
+<screen_rotation type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    -0.9881 0.0008 -0.1536
+    0.0192 0.9928 -0.1185
+    0.1524 -0.1200 -0.9810</data></screen_rotation>
+</opencv_storage>
