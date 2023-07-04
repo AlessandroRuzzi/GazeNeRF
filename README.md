@@ -6,7 +6,7 @@ This repository is the official PyTorch implementation for CVPR 2023 paper\
 - Authors: [Alessandro Ruzzi*](https://alessandroruzzi.github.io), [Xiangwei Shi*](), [Xi Wang](https://ait.ethz.ch/people/xiwang), [Gengyan Li](https://ait.ethz.ch/people/lig), [Shalini De Mello](https://research.nvidia.com/person/shalini-de-mello), [Hyung Jin Chang](https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/chang-jin-hyung.aspx), [Xucong Zhang](https://cvlab-tudelft.github.io/people/xucong-zhang/), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges)
 - [Project Page](https://x-shi.github.io/GazeNeRF.github.io/)
 
-![](demo/demo.mp4)
+![](./demo/demo.mp4)
 
 ## Requirements
 The models in our paper are trained with Python 3.8.8, PyTorch 1.12.0, CUDA 11.3, and CentOS 7.9.2009.
