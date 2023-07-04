@@ -1,5 +1,5 @@
 # GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields
-<<<<<<< HEAD
+
 This repository is the official PyTorch implementation for CVPR 2023 paper\
 [“GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields”](https://arxiv.org/abs/2212.04823)
 
