@@ -40,4 +40,3 @@ To generate the interpolation demos, run\
 ## Pre-trained model
 You can download pre-trained GazeNeRF [here](https://drive.google.com/file/d/100ksmOoWc5kFB0V4eT0RZecI9N1Hr2vu/view?usp=sharing).
 
-=======
