@@ -41,7 +41,3 @@ To generate the interpolation demos, run\
 You can download pre-trained GazeNeRF [here](https://drive.google.com/file/d/100ksmOoWc5kFB0V4eT0RZecI9N1Hr2vu/view?usp=sharing).
 
 =======
-Official repository for CVPR 2023 paper "GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields"
-
-Coming soon!
->>>>>>> 8d4c39232e12dc0726bcd9dff8d10406174a7bd9
