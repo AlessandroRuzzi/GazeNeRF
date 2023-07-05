@@ -40,3 +40,15 @@ To generate the interpolation demos, run\
 ## Pre-trained model
 You can download pre-trained GazeNeRF [here](https://drive.google.com/file/d/100ksmOoWc5kFB0V4eT0RZecI9N1Hr2vu/view?usp=sharing).
 
+## Citation
+
+```
+@InProceedings{ruzzi2023gazenerf,
+    author    = {Ruzzi, Alessandro and Shi, Xiangwei and Wang, Xi and Li, Gengyan and De Mello, Shalini and Chang, Hyung Jin and Zhang, Xucong and Hilliges, Otmar},
+    title     = {GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year      = {2023},
+    pages     = {9676--9685}
+}
+```
+
