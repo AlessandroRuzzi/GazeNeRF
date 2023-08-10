@@ -38,7 +38,7 @@ To generate the interpolation demos, run\
 `python evaluate.py --model_path=checkpoints/your_checkpoints.json --img_dir='/path/to/your/ETH-XGaze/test/dataset'`
 
 ## Pre-trained model
-You can download pre-trained GazeNeRF [here](https://drive.google.com/file/d/100ksmOoWc5kFB0V4eT0RZecI9N1Hr2vu/view?usp=sharing).
+You can download the pre-trained GazeNeRF [here](https://drive.google.com/file/d/100ksmOoWc5kFB0V4eT0RZecI9N1Hr2vu/view?usp=sharing) and the gaze estimator [here](https://drive.google.com/file/d/1YFQjLYx187XyhGj6SGEONmgV3lBieJsn/view?usp=share_link).
 
 ## Citation
 
