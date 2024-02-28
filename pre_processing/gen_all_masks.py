@@ -234,7 +234,7 @@ class GenMask(object):
                 res[res != 0] = 255
                     
                 res_re = copy.deepcopy(res)
-                res_re[:, : int(res_le.shape[1] / 2)] = 0
+                res_re[:, : int(res_re.shape[1] / 2)] = 0
                 if len(np.nonzero(res_re)[0]) != 0:
                     right_eye_list.append(res_re)
                     
@@ -253,7 +253,7 @@ class GenMask(object):
                     
                     if len(np.nonzero(res_re)[0]) == 0:
                         res_re = copy.deepcopy(res)
-                        res_re[:, : int(res_le.shape[1] / 2)] = 0
+                        res_re[:, : int(res_re.shape[1] / 2)] = 0
                         if len(np.nonzero(res_re)[0]) != 0:
                             right_eye_list.append(res_re)
                     
